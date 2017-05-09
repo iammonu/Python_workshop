@@ -1,0 +1,4 @@
+kumar mohit,student,140000
+sai somnath,student,12000
+james akash,student,20000
+jha anurag,student,30000
